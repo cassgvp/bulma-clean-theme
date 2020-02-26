@@ -1,9 +1,9 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: WIN Open Neouroimaging Community
+tagline: Building the resources we need for working Open
+email: cassandra.gouldvanpraag@psyhc.ox.ac.uk
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  The demo site for WIN Open Neuroimaging, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
 url: "https://www.csrhymes.com"
 permalink: pretty
